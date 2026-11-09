@@ -1,0 +1,54 @@
+{
+  "total_rejected": 7,
+  "rejections": [
+    {
+      "episode": 22,
+      "start_beat_id": "ep22_b064",
+      "end_beat_id": "ep22_b081",
+      "reason_code": "DURATION_TOO_SHORT",
+      "details": "Clip duration (17.2s) is below minimum 20.0s"
+    },
+    {
+      "episode": 39,
+      "start_beat_id": "ep39_b044",
+      "end_beat_id": "ep39_b055",
+      "reason_code": "DURATION_TOO_SHORT",
+      "details": "Clip duration (15.4s) is below minimum 20.0s"
+    },
+    {
+      "episode": 39,
+      "start_beat_id": "ep39_b016",
+      "end_beat_id": "ep39_b027",
+      "reason_code": "DURATION_TOO_SHORT",
+      "details": "Clip duration (17.2s) is below minimum 20.0s"
+    },
+    {
+      "episode": 40,
+      "start_beat_id": "ep40_b039",
+      "end_beat_id": "ep40_b049",
+      "reason_code": "DURATION_TOO_SHORT",
+      "details": "Clip duration (19.3s) is below minimum 20.0s"
+    },
+    {
+      "episode": 40,
+      "start_beat_id": "ep40_b043",
+      "end_beat_id": "ep40_b049",
+      "reason_code": "DURATION_TOO_SHORT",
+      "details": "Clip duration (19.3s) is below minimum 20.0s"
+    },
+    {
+      "episode": 40,
+      "start_beat_id": "ep40_b039",
+      "end_beat_id": "ep40_b047",
+      "reason_code": "DURATION_TOO_SHORT",
+      "details": "Clip duration (12.0s) is below minimum 20.0s"
+    },
+    {
+      "episode": 40,
+      "start_beat_id": "ep40_b029",
+      "end_beat_id": "ep40_b037",
+      "reason_code": "DURATION_TOO_SHORT",
+      "details": "Clip duration (14.7s) is below minimum 20.0s"
+    }
+  ]
+}
