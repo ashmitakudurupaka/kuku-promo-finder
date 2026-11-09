@@ -111,3 +111,4 @@ kuku_promo_intelligence/
 - [x] **Raw Outputs:** Full unedited outputs for all 50 episodes in `outputs/promos_all_50_episodes.json` & `.csv`.
 - [x] **Quality Checking:** Real failure mode analysis in `outputs/failure_modes_analysis.md`.
 - [x] **Walkthrough Video Script:** Word-for-word voiceover script in `VIDEO_WALKTHROUGH_SCRIPT.md`.
+# kuku-promo-finder
